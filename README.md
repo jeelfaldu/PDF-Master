@@ -7,9 +7,6 @@ Here is an easy to use Android app to convert images to PDF file!
 
 <img src="./screenshots/image_to_pdf.gif"  width="300px">
 
-### Slack
-You can also join the Images To PDF Team on Slack [https://imagestopdf.slack.com/](https://imagestopdf.slack.com/) and chat with developers. Use [this link](https://join.slack.com/t/imagestopdf/shared_invite/enQtNDA2ODk1NDE3Mzk3LTUwNjllYzY5YWZkZDliY2FmNDhkNmM1NjIwZTc1YjU4NTgxNWI0ZDczMWQxMTEyZjA0M2Y5N2RlN2NiMWRjZGI) to join our slack team.
-
 ### Features 
 - Create PDF from multiple images from camera or gallery
 - View your converted PDFs
@@ -91,13 +88,6 @@ Black | Dark | White |
 + [PhotoEditor](https://github.com/burhanrashid52/PhotoEditor)
 + [viewpager-transformers](https://github.com/geftimov/android-viewpager-transformers)
 + [zxing](https://github.com/zxing/zxing)
-
-#### Code & Issues
-If you are a developer and you wish to contribute to the app please fork the project
-and submit a pull request.
-Follow [Github Flow](https://help.github.com/articles/github-flow/) for collaboration!
-If you have any questions, feel free to ask [me](mailto:swati4star@gmail.com) about whatever you want.
-[Here](https://github.com/Swati4star/Images-to-PDF/issues) is the list of known issues.
 
 ### Project Maintainers
 This project is founded and actively maintained by [Jeel Faldu(https://github.com/jeelfaldu/).
